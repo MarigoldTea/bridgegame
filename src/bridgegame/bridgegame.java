@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class bridgegame {
 
 		 public static void main(String[] args) {
-			//오징어 게임의 다리 건너기
+			 //오징어 게임의 다리 건너기
 				//건너야 될 다리가 18개가 있다
 				//18개의 다리를 만들자(1,2)
 				ArrayList<Integer> bList = new ArrayList<Integer>();
